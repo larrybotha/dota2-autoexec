@@ -1,10 +1,12 @@
 h1. Custom Dota 2 autoexec.cfg
 
-This autoexec.cfg customises a number of features and bindings in Dota 2 so that console commands don't need to be run individually in each match.
+This autoexec.cfg customises a number of features and bindings in Dota 2 so that console commands and settings can be run from a single command at the beginning of each match.
 
 h2. Usage
 
 Download and copy the autoexec.cfg to @Program Files\Steam\SteamApps\common\dota 2 beta\dota\cfg@
+
+Open the file in a text editor, read through and modify the settings to your liking.
 
 *Optional:* Run Dota 2 with console enabled, and disable the Valve intro video by adding
 
