@@ -38,6 +38,10 @@ h2. Further Customisation
 
 To further customise your settings, a full list of commands can be found at http://dota2.gamepedia.com/Console_Command_List.
 
+h3. Credits
+
+This autoexec is largely inspired by that of Killsteal Legends and can be found at http://www.playdota.com/forums/showthread.php?t=672679
+
 h3. License
 
 MIT: http://larrybotha.mit-license.org/
