@@ -26,9 +26,11 @@ h2. Key Bindings
 
 To manage key bindings, do one of the following:
 
-h4. Use Custom Key Bindings
+h4. Use Autoexec Key Bindings
 
-Edit the bindings in the config to your liking, and then remove the default buttons in the Dota 2 option menu to prevent overwriting your bindings, or
+Edit the bindings in the config to your liking, and then remove the default buttons in the Dota 2 option menu to prevent overwriting your bindings. To unbind a key in the options menu, select it and press DEL.
+
+Or...
 
 h4. Use Options-Defined Key Bindings
 
