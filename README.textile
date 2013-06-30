@@ -4,7 +4,7 @@ This autoexec.cfg customises a number of features and bindings in Dota 2 so that
 
 h2. Usage
 
-Download and copy the "autoexec.cfg":https://github.com/larrybotha/dota2-autoexec/blob/master/autoexec.cfg to @Program Files\Steam\SteamApps\common\dota 2 beta\dota\cfg@
+"Download":https://github.com/larrybotha/dota2-autoexec/archive/master.zip and copy the "autoexec.cfg":https://github.com/larrybotha/dota2-autoexec/blob/master/autoexec.cfg to @Program Files\Steam\SteamApps\common\dota 2 beta\dota\cfg@
 
 Open the file in a text editor, read through and modify the settings to your liking.
 
