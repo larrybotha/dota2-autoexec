@@ -20,7 +20,7 @@ to your launch parameters before starting Dota 2 (only needs to be done once):
 
 Once in a match, execute the autoexec by pressing F8, or by opening your console with F11 and entering 
 
-<pre>exec autoexec</pre>
+<pre>exec autoexec.cfg</pre>
 
 h2. Key Bindings
 
