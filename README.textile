@@ -1,4 +1,42 @@
-dota2-autoexec
-==============
+h1. Custom Dota 2 autoexec.cfg
 
-A customised autoexec.cfg for Dota 2
+This autoexec.cfg customises a number of features and bindings in Dota 2 so that console commands don't need to be run individually in each match.
+
+h2. Usage
+
+Download and copy the autoexec.cfg to @Program Files\Steam\SteamApps\common\dota 2 beta\dota\cfg@
+
+*Optional:* Run Dota 2 with console enabled, and disable the Valve intro video by adding
+
+<pre>
+  -console -novid
+</pre>
+
+to your launch parameters before starting Dota 2 (only needs to be done once):
+
+!http://i.imgur.com/36cMj.jpg!
+
+Once in a match, execute the autoexec by pressing F8, or by opening your console with F11 and entering 
+
+<pre>exec autoexec</pre>
+
+h2. Key Bindings
+
+To manage key bindings, do one of the following:
+
+h4. Use Custom Key Bindings
+
+Edit the bindings in the config to your liking, and then remove the default buttons in the Dota 2 option menu to prevent overwriting your bindings, or
+
+h4. Use Options-Defined Key Bindings
+
+If you'd prefer to manage your key bindings via the Dota 2 settings, simply comment out or remove the bindings from the autoexec.cfg.
+
+h2. Further Customisation
+
+To further customise your settings, a full list of commands can be found at http://dota2.gamepedia.com/Console_Command_List.
+
+h3. License
+
+MIT: http://larrybotha.mit-license.org/
+
